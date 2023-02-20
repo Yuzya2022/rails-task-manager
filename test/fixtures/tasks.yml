@@ -3,9 +3,9 @@
 one:
   title: MyString
   details: MyText
-  comleted: false
+  completed: false
 
 two:
   title: MyString
   details: MyText
-  comleted: false
+  completed: false
